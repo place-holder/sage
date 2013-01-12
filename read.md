@@ -5,9 +5,8 @@ An imageboard browser written in Vala.
 
 Directory Layout
 ---
-
 ├── read.md 	# This file
-├── rel		# Release code	
+├── rel		# Release code
 ├── src		# Development code
 └── tst		# Testing code
 
