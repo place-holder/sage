@@ -5,13 +5,15 @@ An imageboard browser written in Vala.
 
 Directory Layout
 ---
-
-```read.md # This file
-rel/	# Release code
-src/	# Development code
-tst/	# Testing code
-
-_3 directories, 1 file_```
+```
+.
+├── read.md		# This File
+├── README.md		# Dummy readme
+├── rel			# Release code
+├── src			# Development code
+└── tst			# Testing code
+```
+_3 directories, 2 file_
 
 Features
 ---
